@@ -8,6 +8,8 @@ public class HomeFinanceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(HomeFinanceApplication.class, args);
+
+		System.out.println("Executado com sucesso...");
 	}
 
 }
